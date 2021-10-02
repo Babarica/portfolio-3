@@ -180,7 +180,7 @@ a::after {
 }
 
 .swiper-button-prev {
-  background: url(/img/slider/arrow-left.svg);
+  background: url(../img/slider/arrow-left.svg);
   background-repeat: no-repeat;
   width: 10px;
   height: 5px;
@@ -190,7 +190,7 @@ a::after {
 }
 
 .swiper-button-next {
-  background: url(/img/slider/arrow-right.svg);
+  background: url(../img/slider/arrow-right.svg);
   background-repeat: no-repeat;
   width: 10px;
   height: 5px;
@@ -390,7 +390,7 @@ a::after {
 }
 
 .download {
-  background-image: url(/img/gallery/bg-download.jpg);
+  background-image: url(../img/gallery/bg-download.jpg);
   background-size: cover;
   background-position: center;
 }
@@ -552,7 +552,7 @@ a::after {
 .contact-inner__section-direction::before {
   position: absolute;
   content: '';
-  background-image: url(/img/contact/1.png);
+  background-image: url(../img/contact/1.png);
   background-repeat: no-repeat;
   width: 25px;
   height: 35px;
@@ -571,7 +571,7 @@ a::after {
 .contact-inner__section-phone::before {
   position: absolute;
   content: '';
-  background-image: url(/img/contact/2.png);
+  background-image: url(../img/contact/2.png);
   background-repeat: no-repeat;
   width: 25px;
   height: 35px;
@@ -593,7 +593,7 @@ a::after {
 .contact-inner__section-mail::before {
   position: absolute;
   content: '';
-  background-image: url(/img/contact/3.png);
+  background-image: url(../img/contact/3.png);
   background-repeat: no-repeat;
   width: 25px;
   height: 35px;
